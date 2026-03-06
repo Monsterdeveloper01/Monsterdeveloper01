@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=150&section=header&text=Hello!%20I'm%20Farel&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Developer;Efficiency+Enthusiast;Creative+Thinker" alt="Typing SVG" />
   
   <br>
 
@@ -17,20 +17,20 @@
   
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🎯 About Me
 
 > *"Programming is not just about writing code — it's about building solutions, experimenting with ideas, and bringing concepts to life."*
 
-I'm a passionate programmer who loves creating things from scratch. I thrive at the intersection of web and game development, constantly looking for new challenges.
+I'm a passionate programmer who loves creating things from scratch. I thrive at the intersection of web and game development, constantly looking for new challenges. 
 
+- 🎧 **Vibe Coding:** I love getting into that deep, focused coding zone to build highly efficient, clean, and optimized solutions.
 - 🛠️ **Building:** Developing new systems & innovative solutions.
 - 🔬 **Exploring:** Constantly learning cutting-edge technologies.
-- 📈 **Growing:** Continuously improving my problem-solving skills.
 - 💡 **Impacting:** Making everyday processes easier and more engaging for people.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 💻 Tech Stack
 
@@ -45,7 +45,7 @@ I'm a passionate programmer who loves creating things from scratch. I thrive at 
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -72,11 +72,17 @@ I'm a passionate programmer who loves creating things from scratch. I thrive at 
   </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Monsterdeveloper01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  </a>
+
+  <br><br>
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Monsterdeveloper01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterdeveloper01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -89,7 +95,7 @@ I'm a passionate programmer who loves creating things from scratch. I thrive at 
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
   
