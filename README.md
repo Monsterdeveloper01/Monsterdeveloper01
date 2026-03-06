@@ -1,18 +1,114 @@
-# 💫 About Me:
-I am a programmer who<br> loves creating things from scratch.<br> For me, programming is not just about writing code, <br>but about building solutions, experimenting with ideas, and<br> bringing concepts to life. I enjoy developing new systems, <br>exploring technologies, and continuously improving my skills<br>. My goal is to create useful and innovative solutions that can help<br> people and make everyday processes easier.<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itsme_farel_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farelsfadlillah@gmail.com) 
-
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Monsterdeveloper01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Monsterdeveloper01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterdeveloper01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+&lt;div align="center"&gt;
+  
+  # 🚀 Hello, I'm Farel
+  
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Game+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" /&gt;
+  
+  &lt;p align="center"&gt;
+    &lt;img src="https://komarev.com/ghpvc/?username=Monsterdeveloper01&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" /&gt;
+  &lt;/p&gt;
+  
+&lt;/div&gt;
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Monsterdeveloper01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+&gt; *"Programming is not just about writing code — it's about building solutions, experimenting with ideas, and bringing concepts to life."*
+
+I'm a passionate programmer who loves creating things from scratch. I enjoy:
+- 🛠️ Developing new systems & innovative solutions
+- 🔬 Exploring cutting-edge technologies  
+- 📈 Continuously improving my skills
+- 💡 Making everyday processes easier for people
+
+---
+
+## 🌐 Connect With Me
+
+&lt;div align="center"&gt;
+  
+  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nd-hostpot.net)
+  [![PointKu](https://img.shields.io/badge/⚡%20PointKu-4ECDC4?style=for-the-badge&logo=lightning&logoColor=white)](https://pointku.my.id)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@itsme_farel_)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farelsfadlillah@gmail.com)
+  
+&lt;/div&gt;
+
+---
+
+## 💻 Tech Stack
+
+&lt;div align="center"&gt;
+
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🎮 Game & System Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=black)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
+&lt;/div&gt;
+
+---
+
+## 🚀 Featured Projects
+
+&lt;div align="center"&gt;
+
+### 🌐 [ND-Hostpot](https://nd-hostpot.net)
+**Landing Page & Business Website**
+- Modern, responsive design
+- Optimized for performance
+- Clean UI/UX implementation
+
+### ⚡ [PointKu](https://pointku.my.id)
+**Point Management System**
+- Full-stack web application
+- Database-driven functionality
+- User-friendly interface
+
+&lt;/div&gt;
+
+---
+
+## 📊 GitHub Analytics
+
+&lt;div align="center"&gt;
+
+&lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monsterdeveloper01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /&gt;
+&lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monsterdeveloper01&layout=compact&theme=tokyonight&hide_border=true" /&gt;
+
+&lt;br/&gt;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Monsterdeveloper01&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+&lt;/div&gt;
+
+---
+
+&lt;div align="center"&gt;
+  
+  ### 💬 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+  
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /&gt;
+  
+&lt;/div&gt;
